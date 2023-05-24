@@ -81,3 +81,5 @@ Contenu index.html:
 		- Proximity (0.5pt)
 		- Orientation (0.5pt)
 		- ... (0.5pt)
+
+...
